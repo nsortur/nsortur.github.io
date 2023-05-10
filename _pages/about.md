@@ -14,8 +14,9 @@ I'm currently doing research in the Geometric Learning Lab advised by [Professor
 
 ## News
 
-- (04/23) I'm presenting my co-authored work on [learning with latent symmetries](https://nsortur.github.io/publication/iclr2023) at [RISE](https://undergraduate.northeastern.edu/research/rise-2023/overview/), Northeastern's annual research expo. See [my poster here](https://drive.google.com/file/d/1zKoX4EBMvLhzg2CjEZuvNoKS3bTbCODz/view?usp=sharing).
+- (04/23) I'm presenting our work on [equivariant learning with latent symmetries](https://nsortur.github.io/publication/iclr2023) at [RISE](https://undergraduate.northeastern.edu/research/rise-2023/overview/), Northeastern's annual research expo. See [my poster here](https://drive.google.com/file/d/1zKoX4EBMvLhzg2CjEZuvNoKS3bTbCODz/view?usp=sharing).
 - (02/23) I was awarded a [PEAK Award](https://undergraduate.northeastern.edu/research/awards/peak-awards-overview/) by the Northeastern Undergraduate Research and Fellowships office for my exploratory work on efficient equivariant control for satellite formation flying.
+- (01/23) Our work on [equivariant learning with latent symmetries](https://nsortur.github.io/publication/iclr2023) was accepted spotlight (notable-top-25%) to ICLR 2023.
 - (01/23) This summer, I will be interning at [Blue Origin](https://www.blueorigin.com/) working on avionics software for the New Shepard rocket to pursue my passion for space.
 
 ## Education
