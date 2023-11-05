@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student at [Northeastern University](https://www.northeastern.edu) studying Computer Science, with a concentration in Artificial Intelligence and a minor in Mathematics. I'm currently doing research in the Geometric Learning Lab advised by [Professor Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/) focusing on efficient control with equivariant learning in space applications, and also have been involved with the [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
-My research interests involve transparent machine learning in physical systems, for both embodied intelligence and dynamics systems.
+My research interests involve transparent machine learning in physical systems for algorithmic design, decision-making, and dynamics systems.
 
 ## News
 
