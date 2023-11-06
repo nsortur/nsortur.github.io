@@ -14,6 +14,7 @@ My current research interests involve transparent machine learning in physical s
 
 ## Updates
 
+- (11/23) I'll be at [Boston Symmetry Day](https://bostonsymmetry.github.io/) at MIT, presenting my work on equivariant drag coefficient modeling. See [my poster here](https://drive.google.com/file/d/1zzij9DD0IEAZeS4aAe_zMU1thHt1FJFc/view?usp=sharing).
 - (10/23) Our work on equivariant drag coefficient modeling was accepted to the [NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations (NeurReps)](https://www.neurreps.org/about) [camera-ready available soon].
 - (09/23) This Fall, I am pursuing full-time machine learning research at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) as a co-op student.
 - (05/23) I began my internship at [Blue Origin](https://www.blueorigin.com/) working on avionics software for the New Shepard rocket.
