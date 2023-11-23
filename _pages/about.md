@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student at [Northeastern University](https://www.northeastern.edu) studying Computer Science, with a concentration in Artificial Intelligence and a minor in Mathematics. I'm currently doing a research co-op at [MIT Lincoln Laboratory](https://www.ll.mit.edu/), solving differentiable inverse design problems in the radar domain. I've worked in the Geometric Learning Lab advised by [Professor Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/), and also have been involved with the [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
-My current research interests involve transparent machine learning in physical systems for algorithmic design, decision-making, and dynamics modeling.
+My current research interests involve transparent machine learning in physical systems for algorithmic design, decision-making, and dynamics modeling. I'm looking for PhD programs, with the goal of further understanding the requirements for safe AGI by investigating these topics.
 
 ## Updates
 
