@@ -2,6 +2,7 @@
 title: "Sample Efficient Modeling of Drag Coefficients for Satellites with Symmetry"
 collection: publications
 permalink: /publication/neurips2023
+excerpt: 
 date: 2023-12-01
 venue: "NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations"
 paperurl: "https://openreview.net/forum?id=u7r2160QiP"
