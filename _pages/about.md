@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a senior undergraduate student at [Northeastern University](https://www.northeastern.edu) studying Computer Science, with a concentration in Artificial Intelligence and a minor in Mathematics. I am currently doing research at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) as a co-op student, and am part of the Geometric Learning Lab advised by [Professor Robin Walters](http://www.robinwalters.com/). I have also been involved with the [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
 
-My current research interests involve transparent machine learning in physical systems for inverse design, decision-making, and dynamics modeling. I'm looking for graduate programs to first build tools that can scrutinize the robustness of existing models, then use these tools as a platform for more theoretical work in embodied intelligence. 
+My current research interests involve transparent machine learning systems for reinforcement learning, decision-making, robotics, and dynamics modeling. I'm looking for graduate programs to first build tools that can scrutinize the robustness of existing models, then use these tools as a platform for more theoretical work in embodied intelligence. 
 
 ## Updates
 
