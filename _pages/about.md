@@ -14,6 +14,7 @@ My current research interests involve transparent machine learning systems for r
 
 ## Updates
 
+- (12/23) Attending NeurIPS 2023 in-person. 
 - (11/23) I'll be at [Boston Symmetry Day](https://bostonsymmetry.github.io/) at MIT, presenting our work on [equivariant drag coefficient modeling](https://nsortur.github.io/publication/neurips2023).
 - (10/23) Our work on [equivariant drag coefficient modeling](https://nsortur.github.io/publication/neurips2023) was accepted to the [NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations (NeurReps)](https://www.neurreps.org/about).
 - (09/23) This Fall, I am pursuing full-time machine learning research at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) as a co-op student.
