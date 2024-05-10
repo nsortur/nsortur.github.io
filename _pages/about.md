@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior undergraduate student at [Northeastern University](https://www.northeastern.edu) studying Computer Science, with a concentration in Artificial Intelligence and a minor in Mathematics. I am currently doing research at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) as a co-op student, and am part of the Geometric Learning Lab advised by [Professor Robin Walters](http://www.robinwalters.com/). I have also been involved with the [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/).
+I'm an incoming master's student at [Northeastern University](https://www.northeastern.edu) and an NSF Graduate Research Fellow [(GRFP)](https://www.nsfgrfp.org/) in artificial intelligence. I am advised by [Professor Robin Walters](http://www.robinwalters.com/) in the Geometric Learning Lab, as well as a research assistant at [MIT Lincoln Laboratory](https://www.ll.mit.edu/).
 
-My current research interests involve transparent machine learning systems for reinforcement learning, decision-making, robotics, and dynamics modeling. I'm looking for graduate programs to first build tools that can scrutinize the robustness of existing models, then use these tools as a platform for more theoretical work in embodied intelligence. 
+My research interest is robust and interpretable machine learning for physical systems. Recently, this has been through creating physics-informed deep dynamics models, and using these models for generative mesh design. I have also previously applied my work to robot learning. 
 
 ## Updates
 
+- (04/24) I was selected as a [National Science Foundation Graduate Research Fellow (GRFP)](https://www.nsfgrfp.org/). I will be continuing my research during a master's program at Northeastern University.
+- (03/24) Check out this [news article](https://www.khoury.northeastern.edu/satellite-drag-and-self-correcting-language-models-khoury-undergrads-take-neurips-conference/) about my work.
 - (12/23) Attending NeurIPS 2023 in-person. 
 - (11/23) I'll be at [Boston Symmetry Day](https://bostonsymmetry.github.io/) at MIT, presenting our work on [equivariant drag coefficient modeling](https://nsortur.github.io/publication/neurips2023).
-- (10/23) Our work on [equivariant drag coefficient modeling](https://nsortur.github.io/publication/neurips2023) was accepted to the [NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations (NeurReps)](https://www.neurreps.org/about).
+- (10/23) Our work on [equivariant drag coefficient modeling](https://nsortur.github.io/publication/neurips2023) was accepted to the NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations [(NeurReps)](https://www.neurreps.org/about).
 - (09/23) This Fall, I am pursuing full-time machine learning research at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) as a co-op student.
 - (05/23) I began my internship at [Blue Origin](https://www.blueorigin.com/) working on avionics software for the New Shepard rocket.
 - (04/23) I'm presenting our work on [equivariant learning with latent symmetries](https://nsortur.github.io/publication/iclr2023) at [RISE](https://undergraduate.northeastern.edu/research/rise-2023/overview/), Northeastern's annual research expo. See [my poster here](https://drive.google.com/file/d/1zKoX4EBMvLhzg2CjEZuvNoKS3bTbCODz/view?usp=sharing).
@@ -25,6 +27,6 @@ My current research interests involve transparent machine learning systems for r
 
 ## Education
 
-- (2020 - Present) \\
+- (2020 - 2024) \\
   Northeastern University \\
-  Candidate for B.S. Computer Science, Minor in Mathematics
+  B.S. Computer Science, Minor in Mathematics
