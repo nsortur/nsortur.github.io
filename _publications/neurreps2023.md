@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/neurips2023
 excerpt: " "
 date: 2023-12-01
-venue: "NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations"
+venue: "NeurIPS Workshop on Symmetry and Geometry in Neural Representations"
 paperurl: "https://openreview.net/forum?id=u7r2160QiP"
 citation: Neel Sortur, Linfeng Zhao, Robin Walters. Sample Efficient Modeling of Drag Coefficients for Satellites with Symmetry. In <i>NeurIPS Workshop on Symmetry and Geometry in Neural Representations</i>, 2023.
 ---

@@ -14,6 +14,7 @@ My research interest is robust and interpretable machine learning for physical s
 
 ## Updates
 
+- (11/24) Our work on [equivariant drag coefficient models for general satellite geometries](https://nsortur.github.io/publication/aiaa2025) was accepted for an oral presentation to the [2025 AAS/AIAA Space Flight Mechanics Meeting](https://space-flight.org/docs/2025_winter/2025_winter.html)
 - (04/24) I was selected as a [National Science Foundation Graduate Research Fellow (GRFP)](https://www.nsfgrfp.org/). I will be continuing my research during a master's program at Northeastern University.
 - (03/24) Check out this [news article](https://www.khoury.northeastern.edu/satellite-drag-and-self-correcting-language-models-khoury-undergrads-take-neurips-conference/) about my work.
 - (12/23) Attending NeurIPS 2023 in-person. 
