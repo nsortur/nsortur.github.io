@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming master's student at [Northeastern University](https://www.northeastern.edu) and an NSF Graduate Research Fellow [(GRFP)](https://www.nsfgrfp.org/) in artificial intelligence. I am advised by [Professor Robin Walters](http://www.robinwalters.com/) in the Geometric Learning Lab, as well as a research assistant at [MIT Lincoln Laboratory](https://www.ll.mit.edu/).
+I'm a master's student at [Northeastern University](https://www.northeastern.edu) and an NSF Graduate Research Fellow [(GRFP)](https://www.nsfgrfp.org/) in artificial intelligence. I am advised by [Professor Robin Walters](http://www.robinwalters.com/) in the Geometric Learning Lab, as well as a research assistant at [MIT Lincoln Laboratory](https://www.ll.mit.edu/).
 
 My research interest is robust and interpretable machine learning for physical systems. Recently, this has been through creating physics-informed deep dynamics models, and using these models for generative mesh design. I have also previously applied my work to robot learning. 
 
@@ -27,6 +27,10 @@ My research interest is robust and interpretable machine learning for physical s
 - (01/23) Our work on [equivariant learning with latent symmetries](https://nsortur.github.io/publication/iclr2023) was accepted spotlight (notable-top-25%) to ICLR 2023.
 
 ## Education
+
+- (2024 - 2026) \\
+  Northeastern University \\
+  M.S. Artificial Intelligence
 
 - (2020 - 2024) \\
   Northeastern University \\
