@@ -1,6 +1,6 @@
 ---
 title: "xArm Handovers: Facilitating Human to Robot Handoffs"
-excerpt: "In this project, we trained an agent to dynamically hand over an object to a human. We used vision-based deep reinforcement learning and an xArm, pictured below. <br/><br/><center><img src='/images/actions.png'></center>"
+excerpt: "In this project, we trained an agent to dynamically hand over an object to a human. We used vision-based deep reinforcement learning and an xArm, pictured below. <br/><br/><img src='/images/actions.png'>"
 collection: portfolio
 ---
 
