@@ -10,11 +10,12 @@ redirect_from:
 
 I'm a master's student at [Northeastern University](https://www.northeastern.edu) and an NSF Graduate Research Fellow [(GRFP)](https://www.nsfgrfp.org/) in artificial intelligence. I am advised by [Professor Robin Walters](http://www.robinwalters.com/) in the Geometric Learning Lab, as well as a research assistant at [MIT Lincoln Laboratory](https://www.ll.mit.edu/).
 
-My research interest is robust and interpretable probabilistic modeling. Recently, this has been through creating physics-informed deep dynamics models, and using these models for generative mesh design. I have also previously applied my work to robot learning. 
+My research interest is robust and interpretable probabilistic modeling. Recently, this has been through creating physics-informed deep dynamics models, and using these models for generative mesh design. I have also previously applied my work to reinforcement learning and robotics. 
 
 ## Updates
 
-- (04/25) I will be at ICLR 2025 presenting our work on [diffusion models for noisy radar scattering problems](https://nsortur.github.io/publication/fpi2025) at the Frontiers in Probabilistic Inference Workshop. 
+- (11/25) New preprint: [Radar2Shape: 3D Shape Reconstruction from High-Frequency Radar using Multiresolution Signed Distance Functions](https://arxiv.org/abs/2511.17484)
+- (04/25) I will be at ICLR 2025 presenting at the Frontiers in Probabilistic Inference Workshop!
 - (11/24) Our work on [equivariant drag coefficient models for general satellite geometries](https://nsortur.github.io/publication/aiaa2025) was accepted for an oral presentation to the [2025 AAS/AIAA Space Flight Mechanics Meeting](https://space-flight.org/docs/2025_winter/2025_winter.html)
 - (04/24) I was selected as a [National Science Foundation Graduate Research Fellow (GRFP)](https://www.nsfgrfp.org/). I will be continuing my research during a master's program at Northeastern University.
 - (03/24) Check out this [news article](https://www.khoury.northeastern.edu/satellite-drag-and-self-correcting-language-models-khoury-undergrads-take-neurips-conference/) about my work.
